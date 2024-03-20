@@ -1,0 +1,14 @@
+C:\Users\test\source\repos\RSP\RSP\bin\Debug\net6.0\RSP.exe
+C:\Users\test\source\repos\RSP\RSP\bin\Debug\net6.0\RSP.deps.json
+C:\Users\test\source\repos\RSP\RSP\bin\Debug\net6.0\RSP.runtimeconfig.json
+C:\Users\test\source\repos\RSP\RSP\bin\Debug\net6.0\RSP.dll
+C:\Users\test\source\repos\RSP\RSP\bin\Debug\net6.0\RSP.pdb
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\RSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\RSP.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\RSP.AssemblyInfo.cs
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\RSP.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\RSP.dll
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\refint\RSP.dll
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\RSP.pdb
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\RSP.genruntimeconfig.cache
+C:\Users\test\source\repos\RSP\RSP\obj\Debug\net6.0\ref\RSP.dll
