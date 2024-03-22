@@ -1,4 +1,5 @@
-﻿using static System.Formats.Asn1.AsnWriter;
+﻿using System.Xml.Linq;
+using static System.Formats.Asn1.AsnWriter;
 
 namespace RSP
 {
@@ -53,6 +54,12 @@ namespace RSP
                 Console.WriteLine("Goodbay " + name);
                 return;
             }
+            else if (readiness != "yes") 
+            {
+                Console.WriteLine("Invalid imput");
+                return;
+            }
+          
 
             Random rand = new Random();
             Console.Clear();
@@ -315,9 +322,6 @@ namespace RSP
 
             return message;
         }
-
-
-
 
 
 
