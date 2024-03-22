@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RSP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9573b94a90c484d33c5756cee83dac5c382fb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d28ee0335632ac57a91bf42714172894517f153")]
 [assembly: System.Reflection.AssemblyProductAttribute("RSP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RSP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

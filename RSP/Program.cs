@@ -46,7 +46,7 @@ namespace RSP
             Console.WriteLine(wins + " wins");
 
             Console.WriteLine();
-            Console.WriteLine("Are you ready for battle!?");
+            Console.WriteLine("Are you ready for battle!? (yes/no)");
             string readiness = Console.ReadLine();
 
             if (readiness == "no")
