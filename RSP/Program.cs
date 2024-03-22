@@ -40,6 +40,7 @@ namespace RSP
             Console.WriteLine("STATISTICS");
             Console.WriteLine();
             Console.WriteLine("Playr: " + name + " Age: " + a);
+            Console.WriteLine();
             Console.WriteLine(rounds + " rounds are played");
             Console.WriteLine(wins + " wins");
 

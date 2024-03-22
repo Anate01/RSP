@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\source\\repos\\RSP\\RSP\\RSP.csproj": {}
+    "Z:\\GITs\\RSP\\RSP\\RSP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\source\\repos\\RSP\\RSP\\RSP.csproj": {
+    "Z:\\GITs\\RSP\\RSP\\RSP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\source\\repos\\RSP\\RSP\\RSP.csproj",
+        "projectUniqueName": "Z:\\GITs\\RSP\\RSP\\RSP.csproj",
         "projectName": "RSP",
-        "projectPath": "C:\\Users\\test\\source\\repos\\RSP\\RSP\\RSP.csproj",
+        "projectPath": "Z:\\GITs\\RSP\\RSP\\RSP.csproj",
         "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\source\\repos\\RSP\\RSP\\obj\\",
+        "outputPath": "Z:\\GITs\\RSP\\RSP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
